@@ -312,7 +312,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .footer {
-    background: url(./images//footer-bg.jpg);
+    background: url(footer-bg.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 10px;
